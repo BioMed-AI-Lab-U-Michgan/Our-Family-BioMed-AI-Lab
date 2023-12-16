@@ -102,7 +102,7 @@ Framework Overview
 
 
 ### 🔥 **2023.12.12**.
-- 10086 paper has been accepted in DREAMER2077
+- 10086 papers have been accepted in DREAMER2077
 
 ---
 
@@ -123,7 +123,6 @@ Framework Overview
 
 
 ## <a id="get-started">👨‍🏫 Getting Started <a href="#table-of-contents">🔝</a> </a>
-Please see Overview for the general introduction of <a hraf="">CausalVLR</a>.
 
 For detailed user guides and advanced guides, please refer to our [documentation](docs/index.md), and here is the code structure of toolbox.
 
@@ -181,5 +180,3 @@ If you find this project useful in your research, please consider cite:
 
 ## <a id="hcp">🏗️ Projects in BioMed-AI-Lab<a href="#table-of-contents">🔝</a> </a>
 
-- [HCP-Diffusion](https://github.com/7eu7d7/HCP-Diffusion)
-  is a toolbox for Stable Diffusion models based on 🤗 Diffusers. It facilitates flexiable configurations and component support for training, in comparison with webui and sd-scripts.
