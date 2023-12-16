@@ -11,9 +11,9 @@
     </div> 
 
  
-## [Summary/abstract of this projects.]
+## Brief profile
 
-404 not found.
+Welcome to BioMed-AI-Lab@ECE department, University of Michigan, Ann Arbor!
   
 [![PyPI](https://img.shields.io/pypi/v/0.0.1)]()
 [![docs](https://img.shields.io/badge/docs-latest-blue)](docs/index.md)
