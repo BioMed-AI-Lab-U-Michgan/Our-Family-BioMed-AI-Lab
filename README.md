@@ -11,16 +11,29 @@
     </div> 
 
  
-## Brief profile
+## Research Scopes
 
-Welcome to BioMed-AI-Lab@ECE department, University of Michigan, Ann Arbor!
-  
-[![PyPI](https://img.shields.io/pypi/v/0.0.1)]()
-[![docs](https://img.shields.io/badge/docs-latest-blue)](docs/index.md)
-[![license](https://img.shields.io/github/license/HCPLab-SYSU/CausalVLR)](LICENSE)
-[![open issues](http://isitmaintained.com/badge/open/HCPLab-SYSU/CausalVLR.svg)](https://github.com/HCPLab-SYSU/CausalVLR/issues)
-[![issue resolution](http://isitmaintained.com/badge/resolution/HCPLab-SYSU/CausalVLR.svg)](https://github.com/HCPLab-SYSU/CausalVLR/issues)
+Welcome to BioMed-AI-Lab@ECE department, University of Michigan, Ann Arbor! The research of our lab is in Biomedical AI, which lies in the interdisciplinary areas of machine learning, computer vision, signal and image processing, medical image analysis, biomedical imaging, and data science. 
 
+In the filed of AI/ML, we focus on developing reliable, generalizable, data-efficient machine learning and deep learning algorithms by exploiting prior knowledge from the physical world, such as:
+<details open>
+<summary>scope</summary>
+
+- **Prior-integrated learning for data-efficient ML**
+
+- **Uncertainty awareness for trustworthy ML**
+
+</details>
+In the field of Biomedicine, we focus on developing efficient computational methods for biomedical imaging and biomedical data analysis to advance precision medicine and personalized treatment, such as:
+<details open>
+<summary>scope</summary>
+
+- **Multi-modal data analysis for decision making**
+
+- **Clinical trial translation for real-world deployment**
+
+</details>
+[Quated from https://liyueshen.engin.umich.edu/research/]
 [📘Documentation](docs/index.md) |
 [🛠️Installation](docs/getting_started.md#installation) |
 [👀Model Zoo](docs/method.md#model-zoo) |
@@ -44,9 +57,9 @@ Welcome to BioMed-AI-Lab@ECE department, University of Michigan, Ann Arbor!
 - [🏗️ Projects in BioMed-AI-Lab](#️hcp)
 
 
-## <a id="introduction">📚 Introduction <a href="#table-of-contents">🔝</a> </a>
+## <a id="introduction">📚 Research Goals <a href="#table-of-contents">🔝</a> </a>
 
-This is a project for xxx, corresponding to CVPR 202X, for more detailed information, please see on [Documentation](docs/index.md).
+Our goal is to develop efficient and reliable AI/ML-driven computational methods for biomedical imaging and informatics to tackle real-world biomedicine and healthcare problems. We hope the technology advancement in AI and ML can help us to better understand human health in different levels. [Quated from https://liyueshen.engin.umich.edu/research/]
 
 <div>
 <p> </p>
@@ -61,23 +74,23 @@ Framework Overview
 ![Image](Images/tutu.jpg)  
 
 <details open>
-<summary>Major features</summary>
+<summary>Major Goals</summary>
 
 
-- **Modular Design**
+- **AI for Human**
   
-  Your methods.
+  To understand human behavior through image recognition, contributing to patients’ healthcare
 
-- **Support of multiple tasks**
+- **AI for Doctor**
   
-  Your settings.
+  To visualize internal anatomic structure of living subjects through medical imaging techniques (e.g. X-ray, CT, MRI, PET etc.), contributing to precise diagnosis and treatment
 
-- **State of the art**
+- **AI for Science**
   
-  Your experiment results.
+  To investigate biological structures and functions in molecular / organelle / cellular level through microscopy imaging such as cryo-EM, contributing to scientific discovery
 
 </details>
-
+[Quated from https://liyueshen.engin.umich.edu/research/]
 
 ❗ **Note:** 
 
