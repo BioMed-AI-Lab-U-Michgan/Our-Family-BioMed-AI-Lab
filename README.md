@@ -61,7 +61,9 @@ In the field of Biomedicine, we focus on developing efficient computational meth
 
 ## <a id="introduction">📚 Research Goals <a href="#table-of-contents">🔝</a> </a>
 
-Our goal is to develop efficient and reliable AI/ML-driven computational methods for biomedical imaging and informatics to tackle real-world biomedicine and healthcare problems. We hope the technology advancement in AI and ML can help us to better understand human health in different levels. [Quated from https://liyueshen.engin.umich.edu/research/]
+Our goal is to develop efficient and reliable AI/ML-driven computational methods for biomedical imaging and informatics to tackle real-world biomedicine and healthcare problems. We hope the technology advancement in AI and ML can help us to better understand human health in different levels.
+
+[Quated from https://liyueshen.engin.umich.edu/research/]
 
 <div>
 <p> </p>
